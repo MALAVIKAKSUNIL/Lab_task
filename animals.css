@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+}
+
+.rhino {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 4px;
+    left: 707px;
+}
+
+.yak {
+    margin: 0;
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 178px;
+    top: 12px;
+}
+
+.tiger {
+    margin: 0;
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+.elephant {
+    margin: 0;
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 710px;
+    top: 59px;
+}
+
+.fox {
+    margin: 0;
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 363px;
+    top: 128px;
+}
+
+.iguana {
+    margin: 0;
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 167px;
+    left: 686px;
+}
+
+.lion {
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 220px;
+    left: 10px;
+}
+
+.giraffe {
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 201px;
+    left: 86px
+}
+
+.leopard {
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 252px;
+    left: 250px;
+}
+
+.tig {
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 207px;
+    left: 750px;
+}

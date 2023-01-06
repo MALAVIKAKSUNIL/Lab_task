@@ -1,0 +1,43 @@
+body {
+    background-image: url(/image/cab\ 1.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.form {
+    height: 60vh;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 100px;
+    color: maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+div {
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-style: italic;
+    font-family: cursive;
+}
+
+button {
+    background-color: black;
+    color: yellow;
+}
+
+label {
+    size: 100%;
+}
